@@ -48,7 +48,8 @@
         data: () => ({
           items:[
           {title: 'Home', icon: 'mdi-view-dashboard', to: '/'},
-          {title:'About', icon: 'mdi-view-dashboard', to: '/about'}
+          {title: 'Aulas', icon: 'mdi-google-classroom', to: '/aulas'},
+          {title:'About', icon: 'mdi-information-outline', to: '/about'}
             
           ],
         }),
